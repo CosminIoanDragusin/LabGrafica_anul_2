@@ -1,0 +1,5 @@
+﻿  Patrat.c
+C:\Users\user\Desktop\labgraf\examen\Project1\Patrat.c(413,61): warning C4133: 'function': incompatible types - from 'char [40]' to 'LPCWSTR'
+C:\Users\user\Desktop\labgraf\examen\Project1\Patrat.c(419,57): warning C4028: formal parameter 1 different from declaration
+C:\Users\user\Desktop\labgraf\examen\Project1\Patrat.c(420,51): warning C4028: formal parameter 1 different from declaration
+  Project1.vcxproj -> C:\Users\user\Desktop\labgraf\examen\Project1\Debug\Project1.exe

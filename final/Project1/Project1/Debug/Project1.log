@@ -1,0 +1,7 @@
+﻿  curbe_Bezier.c
+C:\Users\user\Desktop\labgraf\grafic\Laborator 4 5(indr5)\curbe_Bezier.c(20,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\grafic\Laborator 4 5(indr5)\curbe_Bezier.c(21,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\grafic\Laborator 4 5(indr5)\curbe_Bezier.c(24,41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\grafic\Laborator 4 5(indr5)\curbe_Bezier.c(25,41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\grafic\Laborator 4 5(indr5)\curbe_Bezier.c(133,34): warning C4133: 'function': incompatible types - from 'char [13]' to 'LPCWSTR'
+  Project1.vcxproj -> C:\Users\user\Desktop\labgraf\final\Project1\Debug\Project1.exe
