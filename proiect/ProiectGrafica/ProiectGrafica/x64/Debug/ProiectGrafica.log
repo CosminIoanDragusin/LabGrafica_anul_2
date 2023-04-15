@@ -1,0 +1,25 @@
+﻿Patrat.obj : error LNK2019: unresolved external symbol __imp_glBegin referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function myinit
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glColor3f referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glEnd referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glLoadIdentity referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glMatrixMode referenced in function myReshape
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glOrtho referenced in function myReshape
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glRotatef referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glTranslatef referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glVertex2f referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol __imp_glViewport referenced in function myReshape
+Patrat.obj : error LNK2019: unresolved external symbol auxInitDisplayMode referenced in function main
+Patrat.obj : error LNK2019: unresolved external symbol auxInitPosition referenced in function main
+Patrat.obj : error LNK2019: unresolved external symbol auxInitWindowW referenced in function main
+Patrat.obj : error LNK2019: unresolved external symbol auxSwapBuffers referenced in function display
+Patrat.obj : error LNK2019: unresolved external symbol auxMainLoop referenced in function main
+Patrat.obj : error LNK2019: unresolved external symbol auxReshapeFunc referenced in function main
+Patrat.obj : error LNK2019: unresolved external symbol auxKeyFunc referenced in function main
+Patrat.obj : error LNK2019: unresolved external symbol auxMouseFunc referenced in function main
+Patrat.obj : error LNK2019: unresolved external symbol auxSolidSphere referenced in function display
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\um\Glu32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\um\Opengl32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\um\Glaux.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\user\Desktop\labgraf\proiect\ProiectGrafica\x64\Debug\ProiectGrafica.exe : fatal error LNK1120: 21 unresolved externals

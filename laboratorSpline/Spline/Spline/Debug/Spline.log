@@ -1,0 +1,5 @@
+﻿  Solid_Bezier.c
+C:\Users\user\Desktop\labgraf\grafic\Laborator 4 5(indr5)\Solid_Bezier.c(51,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\grafic\Laborator 4 5(indr5)\Solid_Bezier.c(53,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\grafic\Laborator 4 5(indr5)\Solid_Bezier.c(136,86): warning C4133: 'function': incompatible types - from 'char [65]' to 'LPCWSTR'
+  Spline.vcxproj -> C:\Users\user\Desktop\labgraf\laboratorSpline\Spline\Debug\Spline.exe
